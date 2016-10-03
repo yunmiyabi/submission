@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scene/01_boot/boot.unity
+  isLoaded: 1
+  isActive: 1
