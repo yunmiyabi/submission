@@ -72,6 +72,8 @@
     <Compile Include="Assets\Scene\00_common\00_Constant\SHConstant.cs" />
     <Compile Include="Assets\Scene\00_common\01_Manager\SHGameManager.cs" />
     <Compile Include="Assets\Scene\00_common\01_Manager\SHSingletonMonoBehaviour.cs" />
+    <Compile Include="Assets\Scene\00_common\02_Player\Goddess.cs" />
+    <Compile Include="Assets\Scene\00_common\02_Player\PlayerBase.cs" />
     <Compile Include="Assets\Scene\00_common\99_Debug\LogUtil.cs" />
     <Compile Include="Assets\Scene\00_common\SceneBase.cs" />
     <Compile Include="Assets\Scene\01_boot\Boot.cs" />
